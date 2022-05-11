@@ -1,0 +1,15 @@
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\bin\Debug\net6.0\draw_star.exe
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\bin\Debug\net6.0\draw_star.deps.json
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\bin\Debug\net6.0\draw_star.runtimeconfig.json
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\bin\Debug\net6.0\draw_star.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\bin\Debug\net6.0\draw_star.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\draw_star.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\draw_star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\draw_star.AssemblyInfoInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\draw_star.AssemblyInfo.cs
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\draw_star.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\draw_star.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\refint\draw_star.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\draw_star.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\draw_star.genruntimeconfig.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\draw_star\obj\Debug\net6.0\ref\draw_star.dll

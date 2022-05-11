@@ -1,0 +1,15 @@
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\bin\Debug\net6.0\day2_assignment_lotto.exe
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\bin\Debug\net6.0\day2_assignment_lotto.deps.json
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\bin\Debug\net6.0\day2_assignment_lotto.runtimeconfig.json
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\bin\Debug\net6.0\day2_assignment_lotto.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\bin\Debug\net6.0\day2_assignment_lotto.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\day2_assignment_lotto.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\day2_assignment_lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\day2_assignment_lotto.AssemblyInfoInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\day2_assignment_lotto.AssemblyInfo.cs
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\day2_assignment_lotto.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\day2_assignment_lotto.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\refint\day2_assignment_lotto.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\day2_assignment_lotto.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\day2_assignment_lotto.genruntimeconfig.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_lotto\obj\Debug\net6.0\ref\day2_assignment_lotto.dll

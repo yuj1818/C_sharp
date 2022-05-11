@@ -1,0 +1,15 @@
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\bin\Debug\net6.0\day1_inputgrade_repeat.exe
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\bin\Debug\net6.0\day1_inputgrade_repeat.deps.json
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\bin\Debug\net6.0\day1_inputgrade_repeat.runtimeconfig.json
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\bin\Debug\net6.0\day1_inputgrade_repeat.dll
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\bin\Debug\net6.0\day1_inputgrade_repeat.pdb
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\day1_inputgrade_repeat.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\day1_inputgrade_repeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\day1_inputgrade_repeat.AssemblyInfoInputs.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\day1_inputgrade_repeat.AssemblyInfo.cs
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\day1_inputgrade_repeat.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\day1_inputgrade_repeat.dll
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\refint\day1_inputgrade_repeat.dll
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\day1_inputgrade_repeat.pdb
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\day1_inputgrade_repeat.genruntimeconfig.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_inputgrade_repeat\obj\Debug\net6.0\ref\day1_inputgrade_repeat.dll

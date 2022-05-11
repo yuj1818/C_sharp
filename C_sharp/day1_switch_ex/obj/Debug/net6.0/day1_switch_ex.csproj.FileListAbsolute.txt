@@ -1,0 +1,15 @@
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\bin\Debug\net6.0\day1_switch_ex.exe
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\bin\Debug\net6.0\day1_switch_ex.deps.json
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\bin\Debug\net6.0\day1_switch_ex.runtimeconfig.json
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\bin\Debug\net6.0\day1_switch_ex.dll
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\bin\Debug\net6.0\day1_switch_ex.pdb
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\day1_switch_ex.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\day1_switch_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\day1_switch_ex.AssemblyInfoInputs.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\day1_switch_ex.AssemblyInfo.cs
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\day1_switch_ex.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\day1_switch_ex.dll
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\refint\day1_switch_ex.dll
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\day1_switch_ex.pdb
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\day1_switch_ex.genruntimeconfig.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_switch_ex\obj\Debug\net6.0\ref\day1_switch_ex.dll

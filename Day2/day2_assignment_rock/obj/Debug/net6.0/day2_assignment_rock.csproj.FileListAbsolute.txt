@@ -1,0 +1,15 @@
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\bin\Debug\net6.0\day2_assignment_rock.exe
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\bin\Debug\net6.0\day2_assignment_rock.deps.json
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\bin\Debug\net6.0\day2_assignment_rock.runtimeconfig.json
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\bin\Debug\net6.0\day2_assignment_rock.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\bin\Debug\net6.0\day2_assignment_rock.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\day2_assignment_rock.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\day2_assignment_rock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\day2_assignment_rock.AssemblyInfoInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\day2_assignment_rock.AssemblyInfo.cs
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\day2_assignment_rock.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\day2_assignment_rock.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\refint\day2_assignment_rock.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\day2_assignment_rock.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\day2_assignment_rock.genruntimeconfig.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\day2_assignment_rock\obj\Debug\net6.0\ref\day2_assignment_rock.dll

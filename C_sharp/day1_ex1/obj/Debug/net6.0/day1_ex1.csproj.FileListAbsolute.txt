@@ -1,0 +1,15 @@
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\bin\Debug\net6.0\day1_ex1.exe
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\bin\Debug\net6.0\day1_ex1.deps.json
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\bin\Debug\net6.0\day1_ex1.runtimeconfig.json
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\bin\Debug\net6.0\day1_ex1.dll
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\bin\Debug\net6.0\day1_ex1.pdb
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\day1_ex1.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\day1_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\day1_ex1.AssemblyInfoInputs.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\day1_ex1.AssemblyInfo.cs
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\day1_ex1.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\day1_ex1.dll
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\refint\day1_ex1.dll
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\day1_ex1.pdb
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\day1_ex1.genruntimeconfig.cache
+C:\Users\PIAI\Desktop\C_sharp\day1_ex1\obj\Debug\net6.0\ref\day1_ex1.dll

@@ -1,0 +1,15 @@
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\bin\Debug\net6.0\struct_ex.exe
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\bin\Debug\net6.0\struct_ex.deps.json
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\bin\Debug\net6.0\struct_ex.runtimeconfig.json
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\bin\Debug\net6.0\struct_ex.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\bin\Debug\net6.0\struct_ex.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\struct_ex.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\struct_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\struct_ex.AssemblyInfoInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\struct_ex.AssemblyInfo.cs
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\struct_ex.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\struct_ex.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\refint\struct_ex.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\struct_ex.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\struct_ex.genruntimeconfig.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\struct_ex\obj\Debug\net6.0\ref\struct_ex.dll

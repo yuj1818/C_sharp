@@ -1,0 +1,17 @@
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\bin\Debug\net6.0\function_ex.exe
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\bin\Debug\net6.0\function_ex.deps.json
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\bin\Debug\net6.0\function_ex.runtimeconfig.json
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\bin\Debug\net6.0\function_ex.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\bin\Debug\net6.0\function_ex.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.AssemblyInfoInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.AssemblyInfo.cs
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\refint\function_ex.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.pdb
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.genruntimeconfig.cache
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\ref\function_ex.dll
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.Properties.Resources.resources
+C:\Users\PIAI\Desktop\Csharp\Day2\Day2\obj\Debug\net6.0\function_ex.csproj.GenerateResource.cache
