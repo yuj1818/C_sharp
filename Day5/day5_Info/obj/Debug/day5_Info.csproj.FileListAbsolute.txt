@@ -1,0 +1,12 @@
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\bin\Debug\day5_Info.exe.config
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\bin\Debug\day5_Info.exe
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\bin\Debug\day5_Info.pdb
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\obj\Debug\day5_Info.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\obj\Debug\day5_Info.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\obj\Debug\day5_Info.Form1.resources
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\obj\Debug\day5_Info.Properties.Resources.resources
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\obj\Debug\day5_Info.csproj.GenerateResource.cache
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\obj\Debug\day5_Info.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\obj\Debug\day5_Info.exe
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\obj\Debug\day5_Info.pdb
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_Info\obj\Debug\day5_Info.Form2.resources

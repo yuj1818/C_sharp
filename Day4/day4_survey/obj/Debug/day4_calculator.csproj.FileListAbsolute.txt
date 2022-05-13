@@ -1,0 +1,11 @@
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\bin\Debug\day4_survey.exe.config
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\bin\Debug\day4_survey.exe
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\bin\Debug\day4_survey.pdb
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\obj\Debug\day4_calculator.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\obj\Debug\day4_calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\obj\Debug\day4_survey.Form1.resources
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\obj\Debug\day4_survey.Properties.Resources.resources
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\obj\Debug\day4_calculator.csproj.GenerateResource.cache
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\obj\Debug\day4_calculator.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\obj\Debug\day4_survey.exe
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_survey\obj\Debug\day4_survey.pdb

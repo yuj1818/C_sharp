@@ -1,0 +1,11 @@
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\bin\Debug\day4_menu.exe.config
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\bin\Debug\day4_menu.exe
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\bin\Debug\day4_menu.pdb
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\obj\Debug\day4_menu.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\obj\Debug\day4_menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\obj\Debug\day4_menu.Form1.resources
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\obj\Debug\day4_menu.Properties.Resources.resources
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\obj\Debug\day4_menu.csproj.GenerateResource.cache
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\obj\Debug\day4_menu.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\obj\Debug\day4_menu.exe
+C:\Users\PIAI\Desktop\Csharp\Day4\day4_menu\obj\Debug\day4_menu.pdb

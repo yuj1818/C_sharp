@@ -1,0 +1,15 @@
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\day3_assignment_calculator_1.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\day3_assignment_calculator_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\day3_assignment_calculator_1.AssemblyInfoInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\day3_assignment_calculator_1.AssemblyInfo.cs
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\day3_assignment_calculator_1.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\bin\Debug\net6.0\day3_assignment_calculator_1.exe
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\bin\Debug\net6.0\day3_assignment_calculator_1.deps.json
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\bin\Debug\net6.0\day3_assignment_calculator_1.runtimeconfig.json
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\bin\Debug\net6.0\day3_assignment_calculator_1.dll
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\bin\Debug\net6.0\day3_assignment_calculator_1.pdb
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\day3_assignment_calculator_1.dll
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\refint\day3_assignment_calculator_1.dll
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\day3_assignment_calculator_1.pdb
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\day3_assignment_calculator_1.genruntimeconfig.cache
+C:\Users\PIAI\Desktop\Csharp\Day3\day3_assignment_calculator_1\obj\Debug\net6.0\ref\day3_assignment_calculator_1.dll
