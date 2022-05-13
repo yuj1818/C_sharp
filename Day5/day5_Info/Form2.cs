@@ -38,16 +38,17 @@ namespace day5_Info {
 
         List<TreeNode> chkNode = new List<TreeNode>();
         void removeCheckedNodes(TreeNodeCollection nodes) {
-            foreach (TreeNode node in nodes) {
-                if (node.Checked) {
-                    chkNode.Add(node);
-                } 
-                else {
-                    removeCheckedNodes(node.Nodes); //상위 노드가 체크되어 있지 않으면 하위 노드에서 체크된 노드 있는지 재 탐색
+            if (nodes != null) {
+                foreach (TreeNode node in nodes) {
+                    if (node.Checked) {
+                        chkNode.Add(node);
+                    } else {
+                        removeCheckedNodes(node.Nodes); //상위 노드가 체크되어 있지 않으면 하위 노드에서 체크된 노드 있는지 재 탐색
+                    }
                 }
-            }
-            foreach (TreeNode chknode in chkNode) {
-                nodes.Remove(chknode);
+                foreach (TreeNode chknode in chkNode) {
+                    nodes.Remove(chknode);
+                }
             }
         }
 

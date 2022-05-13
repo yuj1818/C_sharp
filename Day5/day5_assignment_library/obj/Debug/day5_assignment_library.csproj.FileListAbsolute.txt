@@ -1,0 +1,11 @@
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\bin\Debug\day5_assignment_library.exe.config
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\bin\Debug\day5_assignment_library.exe
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\bin\Debug\day5_assignment_library.pdb
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\obj\Debug\day5_assignment_library.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\obj\Debug\day5_assignment_library.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\obj\Debug\day5_assignment_library.Form1.resources
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\obj\Debug\day5_assignment_library.Properties.Resources.resources
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\obj\Debug\day5_assignment_library.csproj.GenerateResource.cache
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\obj\Debug\day5_assignment_library.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\obj\Debug\day5_assignment_library.exe
+C:\Users\PIAI\Desktop\Csharp\Day5\day5_assignment_library\obj\Debug\day5_assignment_library.pdb

@@ -23,7 +23,7 @@
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent() {
-            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("동물");
+            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("동물");
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.BtnAdd = new System.Windows.Forms.Button();
             this.treeView1 = new System.Windows.Forms.TreeView();
@@ -57,12 +57,13 @@
             // 
             this.treeView1.CheckBoxes = true;
             this.treeView1.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.treeView1.HideSelection = false;
             this.treeView1.Location = new System.Drawing.Point(60, 31);
             this.treeView1.Name = "treeView1";
-            treeNode5.Name = "root";
-            treeNode5.Text = "동물";
+            treeNode1.Name = "root";
+            treeNode1.Text = "동물";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode5});
+            treeNode1});
             this.treeView1.Size = new System.Drawing.Size(388, 352);
             this.treeView1.TabIndex = 3;
             // 
