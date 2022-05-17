@@ -1,0 +1,11 @@
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\bin\Debug\day1_dir.exe.config
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\bin\Debug\day1_dir.exe
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\bin\Debug\day1_dir.pdb
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\obj\Debug\day1_dir.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\obj\Debug\day1_dir.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\obj\Debug\day1_dir.Form1.resources
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\obj\Debug\day1_dir.Properties.Resources.resources
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\obj\Debug\day1_dir.csproj.GenerateResource.cache
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\obj\Debug\day1_dir.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\obj\Debug\day1_dir.exe
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_dir\obj\Debug\day1_dir.pdb

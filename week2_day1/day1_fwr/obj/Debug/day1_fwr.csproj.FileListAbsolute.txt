@@ -1,0 +1,11 @@
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\bin\Debug\day1_fwr.exe.config
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\bin\Debug\day1_fwr.exe
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\bin\Debug\day1_fwr.pdb
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\obj\Debug\day1_fwr.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\obj\Debug\day1_fwr.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\obj\Debug\day1_fwr.Form1.resources
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\obj\Debug\day1_fwr.Properties.Resources.resources
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\obj\Debug\day1_fwr.csproj.GenerateResource.cache
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\obj\Debug\day1_fwr.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\obj\Debug\day1_fwr.exe
+C:\Users\PIAI\Desktop\Csharp\week2_day1\day1_fwr\obj\Debug\day1_fwr.pdb
