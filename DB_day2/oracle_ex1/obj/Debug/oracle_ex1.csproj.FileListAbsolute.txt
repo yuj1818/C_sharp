@@ -1,0 +1,10 @@
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\bin\Debug\oracle_ex1.exe.config
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\bin\Debug\oracle_ex1.exe
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\bin\Debug\oracle_ex1.pdb
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\obj\Debug\oracle_ex1.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\obj\Debug\oracle_ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\obj\Debug\oracle_ex1.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\obj\Debug\oracle_ex1.csproj.CopyComplete
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\obj\Debug\oracle_ex1.exe
+C:\Users\PIAI\Desktop\Csharp\DB_day2\oracle_ex1\obj\Debug\oracle_ex1.pdb

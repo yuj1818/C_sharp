@@ -1,0 +1,13 @@
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\bin\Debug\day3_ex1.exe.config
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\bin\Debug\day3_ex1.exe
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\bin\Debug\day3_ex1.pdb
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.FillOrCancel.resources
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.Navigation.resources
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.NewCustomer.resources
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.Properties.Resources.resources
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.csproj.GenerateResource.cache
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.exe
+C:\Users\PIAI\Desktop\Csharp\DB_day3\day3_ex1\obj\Debug\day3_ex1.pdb
