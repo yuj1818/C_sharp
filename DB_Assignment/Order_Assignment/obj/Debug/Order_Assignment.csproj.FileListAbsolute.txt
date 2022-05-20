@@ -1,0 +1,14 @@
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\bin\Debug\Order_Assignment.exe.config
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\bin\Debug\Order_Assignment.exe
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\bin\Debug\Order_Assignment.pdb
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.csproj.AssemblyReference.cache
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.FindOrder.resources
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.Login.resources
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.MakeAccount.resources
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.MakeOrder.resources
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.Properties.Resources.resources
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.csproj.GenerateResource.cache
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.exe
+C:\Users\PIAI\Desktop\Csharp\DB_Assignment\Order_Assignment\obj\Debug\Order_Assignment.pdb
